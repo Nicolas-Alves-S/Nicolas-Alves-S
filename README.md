@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo!!! 
 Me chamo Nicolas, sou formado como Técnico em Informática pelo SENAC e atualmente estou em busca do meu primeiro emprego. Sou graduando em Análise e Desenvolvimento de Sistemas (ADS) na Impacta. Além disso, atuo como designer gráfico, com sólida experiência em criação visual e um interesse crescente na área de desenvolvimento web. Meu objetivo é aplicar minha criatividade e conhecimento técnico para desenvolver soluções visuais impactantes e funcionais. Tenho grande disposição para aprender continuamente e enfrentar novos desafios, buscando sempre aprimorar minhas competências e expandir minha área de atuação.
 
-[![Blog](https://img.shields.io/website?label=PortifolioNicolasalves.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://portifolio-nicolas-alves-s.netlify.app/)
+[![Blog](https://img.shields.io/website?label=PortifolioNicolasalves.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](http://portfolionicolasalvess.shop/)
 [![LinkedIn](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Blog](https://img.shields.io/website?label=CV&style=for-the-badge&url=https://cv.PDF/)](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a99ee8a1-eda3-42e8-bf34-2709f811e0b7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolas_alves_s_dev/)

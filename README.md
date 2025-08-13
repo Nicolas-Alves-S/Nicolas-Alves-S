@@ -33,3 +33,4 @@ Me chamo Nicolas, sou formado como Técnico em Informática pelo SENAC e atualme
 <!-- Orgulhosamente criado com GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
+https://github.com/beatriizluizz/Nicolas-Alves-S/blob/output/github-contribution-grid-snake.svg

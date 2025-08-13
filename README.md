@@ -33,4 +33,10 @@ Me chamo Nicolas, sou formado como Técnico em Informática pelo SENAC e atualme
 <!-- Orgulhosamente criado com GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
-https://github.com/beatriizluizz/Nicolas-Alves-S/blob/output/github-contribution-grid-snake.svg
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-Alves-S/animacaoCobrinha/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-Alves-S/animacaoCobrinha/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Nicolas-Alves-S/animacaoCobrinha/output/github-snake.svg">
+</picture>
+
+
